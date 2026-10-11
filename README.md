@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/icon.png" width="64" alt="SemeryFiles">
+  <img src="core/icon.png" width="64" alt="SemeryFiles">
   <br>
   SemeryFiles
 </h1>
