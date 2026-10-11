@@ -34,7 +34,7 @@
 > [!TIP]
 > **Появился вопрос?**
 >
-> Не стесьняйся задавать, переходи в Telegram: **[t.me/semeryfiles](https://t.me/semeryfiles)**
+> Не стесняйся задавать, переходи в Telegram: **[t.me/semeryfiles](https://t.me/semeryfiles)**
 
 ---
 
