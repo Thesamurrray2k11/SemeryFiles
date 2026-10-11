@@ -92,7 +92,4 @@ git clone https://github.com/USER/SemeryFiles.git
 cd SemeryFiles
 pip install -r requirements.txt
 python main.py ```
-    <img src="https://img.shields.io/badge/Telegram-@semeryfiles-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
 
