@@ -22,7 +22,7 @@
 > SemeryFiles — лёгкое десктопное приложение на Python/PySide6.
 > Работает офлайн, не ведет сбор данных.
 
-> [!IMPORTANT]
+> [!CAUTION]
 > Скачивайте сборки только со страницы [Releases](https://github.com/Thesamurrray2k11/SemeryFiles/releases).
 > Не скачивайте файл из сторонних источников - это **<font color="#d73a4a">ФЕЙК</font>**!
 
