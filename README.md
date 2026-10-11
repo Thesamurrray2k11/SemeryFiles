@@ -86,4 +86,16 @@
 git clone https://github.com/USER/SemeryFiles.git
 cd SemeryFiles
 pip install -r requirements.txt
-python main.py
+python main.py ```
+
+<p align="center">
+  <b>Появился вопрос? Есть предложение? Нужна связь с автором?</b><br>
+  Переходи в Telegram:
+</p>
+
+<p align="center">
+  <a href="https://t.me/semeryfiles">
+    <img src="https://img.shields.io/badge/Telegram-@semeryfiles-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
