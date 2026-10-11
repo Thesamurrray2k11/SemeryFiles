@@ -24,7 +24,7 @@
 
 > [!IMPORTANT]
 > Скачивайте сборки только со страницы [Releases](https://github.com/Thesamurrray2k11/SemeryFiles/releases).
-> Не скачивайте файл из сторонних источников - это <font color="red"><b>фейк</b></font>!
+> Не скачивайте файл из сторонних источников - это **<font color="red">ФЕЙК</font>**!
 
 > [!WARNING]
 > Собранный `.exe` может вызывать ложные срабатывания антивирусов
