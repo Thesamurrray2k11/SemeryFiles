@@ -19,7 +19,7 @@
 ---
 
 > [!NOTE]
-> SemeryFiles — лёгкое десктопное приложение на Python/PySide6.
+> SemeryFiles — open-sourse проект на Python/PySide6.
 > Работает офлайн, не ведет сбор данных.
 
 > [!CAUTION]
